@@ -1,7 +1,5 @@
 # Project-3
 
-MICROBREWERY
-
 PROJECT TITLE: Growth of Microbrewery in Illinois, Colorado, Michigan and Wisconsin
 
 TEAM: Mark Green, Stephanie Armenta, Richard Robinson
