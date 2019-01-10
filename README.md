@@ -6,7 +6,7 @@ TEAM: Mark Green, Stephanie Armenta, Richard Robinson
 
 DESCRIPTION:  Our mission is to establish the current density of Microbrewery in targeted states by count and location in efforts to identify new growth and/or entrepreneurial opportunities.
 
-DATA: Brewery data from Kaggle
+DATA: DATA: Use of Microbrewery data from Kagggle with over 7000 data sets.
 
 QUESTIONS:  Where are the locations?  Which of the selected states has the most? Where are the opportunities?
 
@@ -34,4 +34,4 @@ A microbrewery or craft brewery is a brewery that produces small amounts of beer
 
 
 
-DATA: Use of Microbrewery data from Kagggle with over 7000 data sets.
+
